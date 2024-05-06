@@ -6,7 +6,7 @@
             "price": 69,
             "description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
             "images": [
-                "[\"https://i.imgur.com/cHddUCu.jpeg\"]"
+                "https://i.imgur.com/cHddUCu.jpeg"
             ],
             "creationAt": "2024-05-05T22:00:57.000Z",
             "updatedAt": "2024-05-06T10:12:33.000Z",
@@ -24,9 +24,9 @@
             "price": 90,
             "description": "Elevate your casual wear with our Classic Grey Hooded Sweatshirt. Made from a soft cotton blend, this hoodie features a front kangaroo pocket, an adjustable drawstring hood, and ribbed cuffs for a snug fit. Perfect for those chilly evenings or lazy weekends, it pairs effortlessly with your favorite jeans or joggers.",
             "images": [
-                "[\"https://i.imgur.com/R2PN9Wq.jpeg\"",
-                "\"https://i.imgur.com/IvxMPFr.jpeg\"",
-                "\"https://i.imgur.com/7eW9nXP.jpeg\"]"
+                "https://i.imgur.com/R2PN9Wq.jpeg",
+                "https://i.imgur.com/IvxMPFr.jpeg",
+                "https://i.imgur.com/7eW9nXP.jpeg"
             ],
             "creationAt": "2024-05-05T22:00:57.000Z",
             "updatedAt": "2024-05-06T03:19:14.000Z",
@@ -44,9 +44,9 @@
             "price": 80,
             "description": "Elevate your casual wardrobe with our Classic Black Hooded Sweatshirt. Made from high-quality, soft fabric that ensures comfort and durability, this hoodie features a spacious kangaroo pocket and an adjustable drawstring hood. Its versatile design makes it perfect for a relaxed day at home or a casual outing.",
             "images": [
-                "[\"https://i.imgur.com/cSytoSD.jpeg\"",
-                "\"https://i.imgur.com/WwKucXb.jpeg\"",
-                "\"https://i.imgur.com/cE2Dxh9.jpeg\"]"
+                "https://i.imgur.com/cSytoSD.jpeg",
+                "https://i.imgur.com/WwKucXb.jpeg",
+                "https://i.imgur.com/cE2Dxh9.jpeg"
             ],
             "creationAt": "2024-05-05T22:00:57.000Z",
             "updatedAt": "2024-05-06T03:31:24.000Z",
@@ -64,9 +64,9 @@
             "price": 25,
             "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
             "images": [
-                "[\"https://i.imgur.com/ZKGofuB.jpeg\"",
-                "\"https://i.imgur.com/GJi73H0.jpeg\"",
-                "\"https://i.imgur.com/633Fqrz.jpeg\"]"
+                "https://i.imgur.com/ZKGofuB.jpeg",
+                "https://i.imgur.com/GJi73H0.jpeg",
+                "https://i.imgur.com/633Fqrz.jpeg"
             ],
             "creationAt": "2024-05-05T22:00:57.000Z",
             "updatedAt": "2024-05-06T03:35:21.000Z",
@@ -143,7 +143,7 @@
             "price": 84,
             "description": "Elevate your casual wardrobe with these classic olive chino shorts. Designed for comfort and versatility, they feature a smooth waistband, practical pockets, and a tailored fit that makes them perfect for both relaxed weekends and smart-casual occasions. The durable fabric ensures they hold up throughout your daily activities while maintaining a stylish look.",
             "images": [
-                "[\"https://i.imgur.com/UsFIvYs.jpeg\"]"
+                "https://i.imgur.com/UsFIvYs.jpeg"
             ],
             "creationAt": "2024-05-05T22:00:57.000Z",
             "updatedAt": "2024-05-06T10:12:47.000Z",
@@ -900,7 +900,7 @@
             "price": 50,
             "description": "Enhance your drinkware collection with our sophisticated set of glass tumblers, perfect for serving your favorite beverages. This versatile set includes both clear and subtly tinted glasses, lending a modern touch to any table setting. Crafted with quality materials, these durable tumblers are designed to withstand daily use while maintaining their elegant appeal.",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-05T22:00:57.000Z",
             "updatedAt": "2024-05-06T04:30:45.000Z",
@@ -918,7 +918,7 @@
             "price": 100,
             "description": "camiseta de futbol",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-05T22:41:58.000Z",
             "updatedAt": "2024-05-05T22:41:58.000Z",
@@ -936,7 +936,7 @@
             "price": 100,
             "description": "string",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-05T23:13:37.000Z",
             "updatedAt": "2024-05-06T04:34:27.000Z",
@@ -954,7 +954,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:34:57.000Z",
             "updatedAt": "2024-05-06T05:34:57.000Z",
@@ -972,7 +972,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:36:51.000Z",
             "updatedAt": "2024-05-06T05:36:51.000Z",
@@ -990,7 +990,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:37:13.000Z",
             "updatedAt": "2024-05-06T05:37:13.000Z",
@@ -1008,7 +1008,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:37:50.000Z",
             "updatedAt": "2024-05-06T05:37:50.000Z",
@@ -1026,7 +1026,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:38:56.000Z",
             "updatedAt": "2024-05-06T05:38:56.000Z",
@@ -1044,7 +1044,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:39:16.000Z",
             "updatedAt": "2024-05-06T05:39:16.000Z",
@@ -1062,7 +1062,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:39:54.000Z",
             "updatedAt": "2024-05-06T05:39:54.000Z",
@@ -1080,7 +1080,7 @@
             "price": 1111,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:54:01.000Z",
             "updatedAt": "2024-05-06T05:57:28.000Z",
@@ -1098,7 +1098,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:54:37.000Z",
             "updatedAt": "2024-05-06T05:54:37.000Z",
@@ -1116,7 +1116,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T05:57:50.000Z",
             "updatedAt": "2024-05-06T05:57:50.000Z",
@@ -1134,7 +1134,7 @@
             "price": 10,
             "description": "2",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T06:00:36.000Z",
             "updatedAt": "2024-05-06T06:00:36.000Z",
@@ -1152,7 +1152,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:06:44.000Z",
             "updatedAt": "2024-05-06T07:06:44.000Z",
@@ -1170,7 +1170,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:23:56.000Z",
             "updatedAt": "2024-05-06T07:23:56.000Z",
@@ -1188,7 +1188,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:28:14.000Z",
             "updatedAt": "2024-05-06T07:28:14.000Z",
@@ -1206,7 +1206,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:36:24.000Z",
             "updatedAt": "2024-05-06T07:36:24.000Z",
@@ -1224,7 +1224,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:38:00.000Z",
             "updatedAt": "2024-05-06T07:38:00.000Z",
@@ -1242,7 +1242,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:38:56.000Z",
             "updatedAt": "2024-05-06T07:38:56.000Z",
@@ -1260,7 +1260,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:40:50.000Z",
             "updatedAt": "2024-05-06T07:40:50.000Z",
@@ -1278,7 +1278,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:45:07.000Z",
             "updatedAt": "2024-05-06T07:45:07.000Z",
@@ -1296,7 +1296,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:46:39.000Z",
             "updatedAt": "2024-05-06T07:46:39.000Z",
@@ -1314,7 +1314,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:47:27.000Z",
             "updatedAt": "2024-05-06T07:47:27.000Z",
@@ -1332,7 +1332,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:48:42.000Z",
             "updatedAt": "2024-05-06T07:48:42.000Z",
@@ -1350,7 +1350,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:51:32.000Z",
             "updatedAt": "2024-05-06T07:51:32.000Z",
@@ -1368,7 +1368,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:52:56.000Z",
             "updatedAt": "2024-05-06T07:52:56.000Z",
@@ -1386,7 +1386,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:53:27.000Z",
             "updatedAt": "2024-05-06T07:53:27.000Z",
@@ -1404,7 +1404,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T07:54:21.000Z",
             "updatedAt": "2024-05-06T07:54:21.000Z",
@@ -1422,7 +1422,7 @@
             "price": 453,
             "description": "cocuq",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:00:47.000Z",
             "updatedAt": "2024-05-06T08:00:47.000Z",
@@ -1440,7 +1440,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:21:34.000Z",
             "updatedAt": "2024-05-06T08:21:34.000Z",
@@ -1458,7 +1458,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:22:04.000Z",
             "updatedAt": "2024-05-06T08:22:04.000Z",
@@ -1476,7 +1476,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:23:20.000Z",
             "updatedAt": "2024-05-06T08:23:20.000Z",
@@ -1494,7 +1494,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:23:46.000Z",
             "updatedAt": "2024-05-06T08:23:46.000Z",
@@ -1512,7 +1512,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:23:57.000Z",
             "updatedAt": "2024-05-06T08:23:57.000Z",
@@ -1530,7 +1530,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:24:37.000Z",
             "updatedAt": "2024-05-06T08:24:37.000Z",
@@ -1548,7 +1548,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:24:46.000Z",
             "updatedAt": "2024-05-06T08:24:46.000Z",
@@ -1566,7 +1566,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:25:19.000Z",
             "updatedAt": "2024-05-06T08:25:19.000Z",
@@ -1584,7 +1584,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:25:57.000Z",
             "updatedAt": "2024-05-06T08:25:57.000Z",
@@ -1602,7 +1602,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:27:09.000Z",
             "updatedAt": "2024-05-06T08:27:09.000Z",
@@ -1620,7 +1620,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:27:33.000Z",
             "updatedAt": "2024-05-06T08:27:33.000Z",
@@ -1638,7 +1638,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:27:48.000Z",
             "updatedAt": "2024-05-06T08:27:48.000Z",
@@ -1656,7 +1656,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:28:14.000Z",
             "updatedAt": "2024-05-06T08:28:14.000Z",
@@ -1674,7 +1674,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:28:51.000Z",
             "updatedAt": "2024-05-06T08:28:51.000Z",
@@ -1692,7 +1692,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:29:39.000Z",
             "updatedAt": "2024-05-06T08:29:39.000Z",
@@ -1710,7 +1710,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:30:08.000Z",
             "updatedAt": "2024-05-06T08:30:08.000Z",
@@ -1728,7 +1728,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:30:21.000Z",
             "updatedAt": "2024-05-06T08:30:21.000Z",
@@ -1746,7 +1746,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:30:49.000Z",
             "updatedAt": "2024-05-06T08:30:49.000Z",
@@ -1764,7 +1764,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:31:30.000Z",
             "updatedAt": "2024-05-06T08:31:30.000Z",
@@ -1782,7 +1782,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:31:46.000Z",
             "updatedAt": "2024-05-06T08:31:46.000Z",
@@ -1800,7 +1800,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:32:02.000Z",
             "updatedAt": "2024-05-06T08:32:02.000Z",
@@ -1818,7 +1818,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:32:10.000Z",
             "updatedAt": "2024-05-06T08:32:10.000Z",
@@ -1836,7 +1836,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:32:35.000Z",
             "updatedAt": "2024-05-06T08:32:35.000Z",
@@ -1854,7 +1854,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:32:49.000Z",
             "updatedAt": "2024-05-06T08:32:49.000Z",
@@ -1872,7 +1872,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:33:04.000Z",
             "updatedAt": "2024-05-06T08:33:04.000Z",
@@ -1890,7 +1890,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:38:52.000Z",
             "updatedAt": "2024-05-06T08:38:52.000Z",
@@ -1908,7 +1908,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:39:10.000Z",
             "updatedAt": "2024-05-06T08:39:10.000Z",
@@ -1926,7 +1926,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:39:43.000Z",
             "updatedAt": "2024-05-06T08:39:43.000Z",
@@ -1944,7 +1944,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:39:53.000Z",
             "updatedAt": "2024-05-06T08:39:53.000Z",
@@ -1962,7 +1962,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:42:58.000Z",
             "updatedAt": "2024-05-06T08:42:58.000Z",
@@ -1980,7 +1980,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:44:22.000Z",
             "updatedAt": "2024-05-06T08:44:22.000Z",
@@ -1998,7 +1998,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:44:38.000Z",
             "updatedAt": "2024-05-06T08:44:38.000Z",
@@ -2016,7 +2016,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:45:07.000Z",
             "updatedAt": "2024-05-06T08:45:07.000Z",
@@ -2034,7 +2034,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:45:34.000Z",
             "updatedAt": "2024-05-06T08:45:34.000Z",
@@ -2052,7 +2052,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:46:17.000Z",
             "updatedAt": "2024-05-06T08:46:17.000Z",
@@ -2070,7 +2070,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:48:01.000Z",
             "updatedAt": "2024-05-06T08:48:01.000Z",
@@ -2088,7 +2088,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:48:15.000Z",
             "updatedAt": "2024-05-06T08:48:15.000Z",
@@ -2106,7 +2106,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:48:32.000Z",
             "updatedAt": "2024-05-06T08:48:32.000Z",
@@ -2124,7 +2124,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:52:01.000Z",
             "updatedAt": "2024-05-06T08:52:01.000Z",
@@ -2142,7 +2142,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:53:31.000Z",
             "updatedAt": "2024-05-06T08:53:31.000Z",
@@ -2160,7 +2160,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:54:00.000Z",
             "updatedAt": "2024-05-06T08:54:00.000Z",
@@ -2178,7 +2178,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:54:08.000Z",
             "updatedAt": "2024-05-06T08:54:08.000Z",
@@ -2196,7 +2196,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:55:16.000Z",
             "updatedAt": "2024-05-06T08:55:16.000Z",
@@ -2214,7 +2214,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:57:57.000Z",
             "updatedAt": "2024-05-06T08:57:57.000Z",
@@ -2232,7 +2232,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:58:15.000Z",
             "updatedAt": "2024-05-06T08:58:15.000Z",
@@ -2250,7 +2250,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T08:59:36.000Z",
             "updatedAt": "2024-05-06T08:59:36.000Z",
@@ -2268,7 +2268,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T09:03:48.000Z",
             "updatedAt": "2024-05-06T09:03:48.000Z",
@@ -2286,7 +2286,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T09:05:02.000Z",
             "updatedAt": "2024-05-06T09:05:02.000Z",
@@ -2304,7 +2304,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T09:06:37.000Z",
             "updatedAt": "2024-05-06T09:06:37.000Z",
@@ -2322,7 +2322,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T09:13:22.000Z",
             "updatedAt": "2024-05-06T09:13:22.000Z",
@@ -2340,7 +2340,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T09:15:24.000Z",
             "updatedAt": "2024-05-06T09:15:24.000Z",
@@ -2358,7 +2358,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T09:16:25.000Z",
             "updatedAt": "2024-05-06T09:16:25.000Z",
@@ -2376,7 +2376,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:22:01.000Z",
             "updatedAt": "2024-05-06T10:22:01.000Z",
@@ -2394,7 +2394,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:23:24.000Z",
             "updatedAt": "2024-05-06T10:23:24.000Z",
@@ -2412,7 +2412,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:25:06.000Z",
             "updatedAt": "2024-05-06T10:25:06.000Z",
@@ -2430,7 +2430,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:27:50.000Z",
             "updatedAt": "2024-05-06T10:27:50.000Z",
@@ -2448,7 +2448,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:28:04.000Z",
             "updatedAt": "2024-05-06T10:28:04.000Z",
@@ -2466,7 +2466,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:29:18.000Z",
             "updatedAt": "2024-05-06T10:29:18.000Z",
@@ -2484,7 +2484,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:37:28.000Z",
             "updatedAt": "2024-05-06T10:37:28.000Z",
@@ -2502,7 +2502,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:38:27.000Z",
             "updatedAt": "2024-05-06T10:38:27.000Z",
@@ -2520,7 +2520,7 @@
             "price": 102,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:45:18.000Z",
             "updatedAt": "2024-05-06T10:45:18.000Z",
@@ -2538,7 +2538,7 @@
             "price": 102,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:45:22.000Z",
             "updatedAt": "2024-05-06T10:45:22.000Z",
@@ -2556,7 +2556,7 @@
             "price": 102,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:45:27.000Z",
             "updatedAt": "2024-05-06T10:45:27.000Z",
@@ -2574,7 +2574,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:49:09.000Z",
             "updatedAt": "2024-05-06T10:49:09.000Z",
@@ -2592,7 +2592,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:49:55.000Z",
             "updatedAt": "2024-05-06T10:49:55.000Z",
@@ -2610,8 +2610,8 @@
             "price": 399,
             "description": "Introducing Xbox Series X, the fastest, most powerful Xbox ever. Play thousands of titles from four generations of consoles—all games look and play best on Xbox Series X.",
             "images": [
-                "[\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714992304/cliconProducts/ProductosLIVOKOUA_8_a5db9e26-d653-4d5f-9813-99d2b0820ae7_v94dlw.webp\"",
-                "\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714992304/cliconProducts/Xbox-Series-X-Video-Game-Console-Black_9f8c06f5-7953-426d-9b68-ab914839cef4.5f15be430800ce4d7c3bb5694d4ab798_kucfmg.webp\"]"
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714992304/cliconProducts/ProductosLIVOKOUA_8_a5db9e26-d653-4d5f-9813-99d2b0820ae7_v94dlw.webp",
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714992304/cliconProducts/Xbox-Series-X-Video-Game-Console-Black_9f8c06f5-7953-426d-9b68-ab914839cef4.5f15be430800ce4d7c3bb5694d4ab798_kucfmg.webp"
             ],
             "creationAt": "2024-05-06T10:50:25.000Z",
             "updatedAt": "2024-05-06T10:50:25.000Z",
@@ -2629,7 +2629,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:50:31.000Z",
             "updatedAt": "2024-05-06T10:50:31.000Z",
@@ -2647,7 +2647,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:52:12.000Z",
             "updatedAt": "2024-05-06T10:52:12.000Z",
@@ -2665,8 +2665,8 @@
             "price": 299,
             "description": "Introducing the Xbox Series S, the smallest, sleekest Xbox console ever. Experience the speed and performance of a next-gen all-digital console at an accessible price point.",
             "images": [
-                "[\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714992304/cliconProducts/9a9a2d46-5f6b-4da4-bb4c-dc623309bc71_u3jsox.jpg\"",
-                "\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714992304/cliconProducts/51zxFi_yK3L_tjg0kd.jpg\"]"
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714992304/cliconProducts/9a9a2d46-5f6b-4da4-bb4c-dc623309bc71_u3jsox.jpg",
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714992304/cliconProducts/51zxFi_yK3L_tjg0kd.jpg"
             ],
             "creationAt": "2024-05-06T10:53:28.000Z",
             "updatedAt": "2024-05-06T10:53:28.000Z",
@@ -2684,7 +2684,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:54:29.000Z",
             "updatedAt": "2024-05-06T10:54:29.000Z",
@@ -2702,7 +2702,7 @@
             "price": 100,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T10:59:46.000Z",
             "updatedAt": "2024-05-06T10:59:47.000Z",
@@ -2720,7 +2720,7 @@
             "price": 100,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T11:01:38.000Z",
             "updatedAt": "2024-05-06T11:01:39.000Z",
@@ -2738,8 +2738,8 @@
             "price": 599,
             "description": "The new MacBook Pro delivers game-changing performance for pro users. With the powerful M1 Pro to supercharge pro-level workflows while getting amazing battery life. And with an immersive 14-inch Liquid Retina XDR display and an array of pro ports, you can do more than ever with MacBook Pro.",
             "images": [
-                "[\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993265/cliconProducts/apple-macbook-air-13-space-gray-z0yj0003-281127_no0syz.webp\"",
-                "\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993264/cliconProducts/apple-macbook-air-mly23_azuszy.webp\"]"
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993265/cliconProducts/apple-macbook-air-13-space-gray-z0yj0003-281127_no0syz.webp",
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993264/cliconProducts/apple-macbook-air-mly23_azuszy.webp"
             ],
             "creationAt": "2024-05-06T11:03:08.000Z",
             "updatedAt": "2024-05-06T11:03:08.000Z",
@@ -2757,7 +2757,7 @@
             "price": 102,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T11:05:26.000Z",
             "updatedAt": "2024-05-06T11:05:26.000Z",
@@ -2775,7 +2775,7 @@
             "price": 102,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T11:05:33.000Z",
             "updatedAt": "2024-05-06T11:05:33.000Z",
@@ -2793,7 +2793,7 @@
             "price": 102,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T11:05:40.000Z",
             "updatedAt": "2024-05-06T11:05:40.000Z",
@@ -2811,9 +2811,9 @@
             "price": 299,
             "description": "Display: 6.7 inches, Dynamic AMOLED 2X. OS: Android. Chipset: Qualcomm Snapdragon 865 (7 nm). CPU: Octa-Core (2.8GHz, 2.4GHz, 1.8GHz). MAIN CAMERA: Quad: 12 MP (f/2.2, 1.4μm) + 12 MP (f/1.8, 1/1.76, 1.8µm, Dual Pixel PDAF, OIS) + 64 MP (f/2.0, 0.8µm, 3x hybrid optical zoom) + DepthVision Camera. SELFIE CAMERA: 10 MP, f/2.2, 1.22µm, Dual Pixel PDAF. Memory: 12GB RAM / 128GB ROM, Supports microSD, up to 1 TB (uses shared SIM slot). BATTERY: Non-removable Li-Po 4500 mAh battery.",
             "images": [
-                "[\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993717/cliconProducts/Untitleddesign-2023-07-25T114729.535_mpxsff.webp\"",
-                "\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993713/cliconProducts/70e9f230aea88a8668158cc5b8146211_ouvbym.jpg\"",
-                "\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993712/cliconProducts/Untitleddesign_5_60120d6f-a9fc-4f30-a779-43e40fc6097f_fm920r.webp\"]"
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993717/cliconProducts/Untitleddesign-2023-07-25T114729.535_mpxsff.webp",
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993713/cliconProducts/70e9f230aea88a8668158cc5b8146211_ouvbym.jpg",
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993712/cliconProducts/Untitleddesign_5_60120d6f-a9fc-4f30-a779-43e40fc6097f_fm920r.webp"
             ],
             "creationAt": "2024-05-06T11:12:26.000Z",
             "updatedAt": "2024-05-06T11:12:26.000Z",
@@ -2831,9 +2831,9 @@
             "price": 399,
             "description": "The iPhone 12 sports a gorgeous design, full 5G support, great cameras and strong performance. However, you don't get a 120Hz display or telephoto lens, and the newer iPhone 14 offers better cameras.",
             "images": [
-                "[\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993715/cliconProducts/iphone-12-mini-blue-select-2020_5_1__t6fo8g.jpg\"",
-                "\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993714/cliconProducts/5163241013_w640_h640_iphone-12-256gb_f1hi25.webp\"",
-                "\"https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993714/cliconProducts/apple-iphone-12-all-colors-swipe.ua_lb4gj2.png\"]"
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993715/cliconProducts/iphone-12-mini-blue-select-2020_5_1__t6fo8g.jpg",
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993714/cliconProducts/5163241013_w640_h640_iphone-12-256gb_f1hi25.webp",
+                "https://res.cloudinary.com/dwqwy0spx/image/upload/v1714993714/cliconProducts/apple-iphone-12-all-colors-swipe.ua_lb4gj2.png"
             ],
             "creationAt": "2024-05-06T11:16:48.000Z",
             "updatedAt": "2024-05-06T11:16:48.000Z",
@@ -2851,7 +2851,7 @@
             "price": 10,
             "description": "A description",
             "images": [
-                "[\"https://placeimg.com/640/480/any\"]"
+                "https://placeimg.com/640/480/any"
             ],
             "creationAt": "2024-05-06T11:30:51.000Z",
             "updatedAt": "2024-05-06T11:30:51.000Z",
@@ -2869,7 +2869,7 @@
             "price": 456,
             "description": "this is a prodcut",
             "images": [
-                "[\"https://thumbs.dreamstime.com/b/colorful-flower-meadow-spring-ai-generated-jpg-colorful-flower-meadow-spring-270907794.jpg\"]"
+                "https://thumbs.dreamstime.com/b/colorful-flower-meadow-spring-ai-generated-jpg-colorful-flower-meadow-spring-270907794.jpg"
             ],
             "creationAt": "2024-05-06T12:24:54.000Z",
             "updatedAt": "2024-05-06T12:24:54.000Z",
